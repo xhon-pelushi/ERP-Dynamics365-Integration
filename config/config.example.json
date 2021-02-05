@@ -1,0 +1,86 @@
+{
+    "sap_b1": {
+        "base_url": "https://sapb1-server:50000/b1s/v1",
+        "username": "your_sap_username",
+        "password": "your_sap_password",
+        "database": "SAP_DATABASE"
+    },
+    "dynamics365": {
+        "tenant_id": "your-azure-tenant-id",
+        "client_id": "your-azure-client-id",
+        "client_secret": "your-azure-client-secret",
+        "dynamics_url": "https://yourorg.crm.dynamics.com",
+        "api_version": "v9.2"
+    },
+    "sql_server": {
+        "server": "localhost",
+        "database": "ERPIntegration",
+        "username": "sql_user",
+        "password": "sql_password"
+    },
+    "sync_settings": {
+        "sync_interval_minutes": 60,
+        "batch_size": 100,
+        "max_retries": 3,
+        "retry_delay_minutes": 15
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
